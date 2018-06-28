@@ -1,0 +1,30 @@
+.loading-div{
+  width: 800px;
+  height: auto;
+  margin: auto;
+}
+.center {
+  width: 1000px;
+  height: auto;
+}
+.fadeIn.ng-hide {
+  opacity: 0;
+}
+
+.fadeIn {
+  opacity: 1;
+}
+.fadeIn.ng-hide-add, .fadeIn.ng-hide-remove {
+  transition: all linear 0.5s;
+}
+.fade-out.ng-hide {
+  opacity: 0;
+}
+
+.fade-out.ng-hide-add, .fade-out.ng-hide-remove {
+  transition: all linear 0.5s;
+}
+
+.test {
+  opacity: 1 !important;
+}

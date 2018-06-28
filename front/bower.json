@@ -1,0 +1,20 @@
+{
+  "name": "roche-portal-client",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Digitalya OPS"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-scrollable": "^0.2.6"
+  }
+}

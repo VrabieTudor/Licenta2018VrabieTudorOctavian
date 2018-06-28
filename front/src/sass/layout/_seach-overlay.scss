@@ -1,0 +1,119 @@
+.addBlur {
+  filter: blur(10px);
+}
+
+.search-overlay {
+  background: rgba(0, 0, 0, 0.8);
+  font-family: 'Imago Pro Book';
+  height: 100vh;
+  overflow: hidden;
+  padding-top: 50px;
+  position: absolute;
+  width: 100vw;
+  z-index: 100;
+  .close-button {
+    background: url('/images/close.svg') center no-repeat;
+    background-size: 35px;
+    cursor: pointer;
+    height: 35px;
+    margin-left: 50px;
+    position: absolute;
+    width: 35px;
+  }
+  .form-control,
+  .form-control:active,
+  .form-control:focus {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 0;
+    box-shadow: none;
+    color: #ffffff;
+    font-size: 24px;
+    line-height: 1.3;
+    padding: 0 0 12px 0;
+    width: 100%;
+
+  }
+  .input-group {
+    .input-group-append {
+      .btn,
+      .btn:active,
+      .btn:focus {
+        background: url('/images/magnifier.svg') center no-repeat;
+        border: 0;
+        border-bottom: 1px solid #ffffff;
+        border-radius: 0;
+        box-shadow: none;
+        color: transparent;
+        height: 44px;
+        width: 30px;
+      }
+
+    }
+  }
+  .search-text {
+    color: #ffffff;
+    font-size: 24px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .search-container {
+    height: 77vh;
+    overflow-x: auto;
+  }
+  .search-result {
+    color: white;
+    line-height: 1.3;
+    margin-top: 50px;
+    .title {
+      font-size: 28px;
+      margin-bottom: 10px;
+      padding-left: 2.5px;
+    }
+    .text {
+      font-size: 18px;
+      margin-bottom: 20px;
+      padding: 0;
+    }
+    .category {
+      background-color: #ffffff;
+      border: 0.5px solid black;
+      color: #000000;
+      display: inline-block;
+      font-size: 12px;
+      margin-bottom: 20px;
+      padding: 3px 10px;
+      width: auto;
+    }
+    .search-btn,
+    .search-btn:active,
+    .search-btn:hover {
+      background-color: #0066cc;
+      border-radius: 0;
+      color: #ffffff;
+      display: inline-block;
+      height: 45px;
+      padding: 0 24px;
+      text-align: left;
+      text-decoration: underline;
+      width: 150px;
+      .slider-indicator {
+        background: url('/images/Slider-Indicator.svg') center no-repeat;
+        background-size: 9px;
+        color: #ffffff;
+        display: inline-block;
+        height: 13px;
+        margin: 0 10px 0 0;
+        width: 9px;
+      }
+    }
+  }
+  .search-result:first-child {
+    margin-top: 0;
+  }
+  .search-result:last-child {
+    margin-bottom: 15vh;
+  }
+
+}

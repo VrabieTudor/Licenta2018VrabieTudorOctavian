@@ -1,0 +1,39 @@
+{
+  "search": [
+      {
+        "id": 1,
+        "title": "abc",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dolor nunc, vel finibus arcu ultrices a. Praesent nisi dui, ullamcorper vel ex id, mollis rutrum nulla. Nulla at suscipit augue. Suspendisse potenti. Ut in enim faucibus, venenatis ex quis, consectetur sapien. Maecenas nunc lacus, vulputate in elit et, dignissim vulputate mauris.",
+        "category": "Lorem ipsum dolor",
+        "url": "https://www.google.ro/"
+      },
+      {
+        "id": 2,
+        "title": "def",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dolor nunc, vel finibus arcu ultrices a. Praesent nisi dui, ullamcorper vel ex id, mollis rutrum nulla. Nulla at suscipit augue. Suspendisse potenti. Ut in enim faucibus, venenatis ex quis, consectetur sapien. Maecenas nunc lacus, vulputate in elit et, dignissim vulputate mauris.",
+        "category": "Lorem ipsum dolor",
+        "url": "https://www.google.ro/"
+      },
+      {
+        "id": 3,
+        "title": "ghi",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dolor nunc, vel finibus arcu ultrices a. Praesent nisi dui, ullamcorper vel ex id, mollis rutrum nulla. Nulla at suscipit augue. Suspendisse potenti. Ut in enim faucibus, venenatis ex quis, consectetur sapien. Maecenas nunc lacus, vulputate in elit et, dignissim vulputate mauris.",
+        "category": "Lorem ipsum dolor",
+        "url": "https://www.google.ro/"
+      },
+      {
+        "id": 4,
+        "title": "jkl",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dolor nunc, vel finibus arcu ultrices a. Praesent nisi dui, ullamcorper vel ex id, mollis rutrum nulla. Nulla at suscipit augue. Suspendisse potenti. Ut in enim faucibus, venenatis ex quis, consectetur sapien. Maecenas nunc lacus, vulputate in elit et, dignissim vulputate mauris.",
+        "category": "Lorem ipsum dolor",
+        "url": "https://www.google.ro/"
+      },
+      {
+        "id": 5,
+        "title": "Training title",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere dolor nunc, vel finibus arcu ultrices a. Praesent nisi dui, ullamcorper vel ex id, mollis rutrum nulla. Nulla at suscipit augue. Suspendisse potenti. Ut in enim faucibus, venenatis ex quis, consectetur sapien. Maecenas nunc lacus, vulputate in elit et, dignissim vulputate mauris.",
+        "category": "Lorem ipsum dolor",
+        "url": "https://www.google.ro/"
+      }
+  ]
+}
